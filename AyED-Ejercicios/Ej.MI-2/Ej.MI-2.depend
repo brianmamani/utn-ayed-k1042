@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619287800 source:c:\users\mamani brian\documents\ayed-ejercicios\ej.mi-2\main.cpp
+	<iostream>
+	<locale.h>
+
