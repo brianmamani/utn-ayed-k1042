@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620530211 source:c:\users\mamani brian\downloads\utn-ayed-k1042-main\utn-ayed-k1042-main\ayedtp1\tp1-ej.4\main.cpp
+	<iostream>
+	<locale.h>
+	<math.h>
+
